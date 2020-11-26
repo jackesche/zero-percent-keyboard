@@ -639,9 +639,9 @@ Text GLabel 3850 3900 2    50   Input ~ 0
 ROW0
 Text GLabel 3850 2400 2    50   Input ~ 0
 COL7
-Text GLabel 3850 3400 2    50   Input ~ 0
+Text GLabel 4250 2650 2    50   Input ~ 0
 COL6
-Text GLabel 3850 3300 2    50   Input ~ 0
+Text GLabel 4250 2550 2    50   Input ~ 0
 COL5
 Text GLabel 3850 2900 2    50   Input ~ 0
 COL4
@@ -651,11 +651,11 @@ Text GLabel 3850 2700 2    50   Input ~ 0
 COL2
 Text GLabel 3850 3700 2    50   Input ~ 0
 ROW2
-Text GLabel 3850 2600 2    50   Input ~ 0
+Text GLabel 3850 3300 2    50   Input ~ 0
 COL1
-Text GLabel 3850 2500 2    50   Input ~ 0
+Text GLabel 3850 3400 2    50   Input ~ 0
 COL0
-Text GLabel 3850 4000 2    50   Input ~ 0
+Text GLabel 1400 2900 2    50   Input ~ 0
 COL8
 Text GLabel 1700 4200 0    50   Input ~ 0
 COL9
@@ -2633,7 +2633,7 @@ Text GLabel 1700 3000 0    50   Input ~ 0
 COL15
 Text GLabel 3850 3500 2    50   Input ~ 0
 ROW4
-Text GLabel 1700 2900 0    50   Input ~ 0
+Text GLabel 3850 4000 2    50   Input ~ 0
 ROW5
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX70
