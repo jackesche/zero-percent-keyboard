@@ -3191,4 +3191,12 @@ $EndComp
 Connection ~ 9400 4700
 Wire Wire Line
 	9400 4700 9750 4700
+Text Notes 7000 7000 0    197  ~ 39
+Zero Percent Keyboard
+Text Notes 8100 7650 0    59   ~ 12
+November 2020
+Text Notes 10600 7650 0    59   ~ 12
+1
+Text Notes 7350 7500 0    79   ~ 16
+Zero Percent Keyboard
 $EndSCHEMATC
