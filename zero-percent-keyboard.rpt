@@ -1,0 +1,6231 @@
+## Footprint report - date 12/05/20 15:29:09
+## Created by Pcbnew version kicad (5.1.6)-1
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 36.931999 22.860000
+lower_right_corner 361.188001 146.814500
+$EndBOARD
+
+$MODULE "MX82"
+reference "MX82"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED"
+attribut none
+position 168.085120 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -49.999900  6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 49.999900  6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -49.999900 -8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 49.999900 -8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX82
+
+$MODULE "MX80"
+reference "MX80"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1.25U-NoLED"
+attribut none
+position 72.834720 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX80
+
+$MODULE "MX76"
+reference "MX76"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 313.341980 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX76
+
+$MODULE "MX75"
+reference "MX75"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1.75U-NoLED"
+attribut none
+position 287.148120 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX75
+
+$MODULE "D75"
+reference "D75"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 291.847000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D75
+
+$MODULE "X1"
+reference "X1"
+value "XTAL_GND"
+footprint "Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering"
+attribut smd
+position 212.418000 140.759000  orientation 180.00
+layer back
+$PAD "1"
+Shape Rect Layer back
+position -1.450000 -1.100000  size  2.100000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  1.450000 -1.100000  size  2.100000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  1.450000  1.100000  size  2.100000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position -1.450000  1.100000  size  2.100000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  X1
+
+$MODULE "U1"
+reference "U1"
+value "ATMEGA32U4"
+footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm"
+attribut smd
+position 200.660000 136.017000  orientation 225.00
+layer back
+$PAD "44"
+Shape Rect Layer back
+position -4.000000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "43"
+Shape Rect Layer back
+position -3.200000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "42"
+Shape Rect Layer back
+position -2.400000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "41"
+Shape Rect Layer back
+position -1.600000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "40"
+Shape Rect Layer back
+position -0.800000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "39"
+Shape Rect Layer back
+position  0.000000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "38"
+Shape Rect Layer back
+position  0.800000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "37"
+Shape Rect Layer back
+position  1.600000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "36"
+Shape Rect Layer back
+position  2.400000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "35"
+Shape Rect Layer back
+position  3.200000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "34"
+Shape Rect Layer back
+position  4.000000  5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "33"
+Shape Rect Layer back
+position  5.700000  4.000000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "32"
+Shape Rect Layer back
+position  5.700000  3.200000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "31"
+Shape Rect Layer back
+position  5.700000  2.400000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "30"
+Shape Rect Layer back
+position  5.700000  1.600000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "29"
+Shape Rect Layer back
+position  5.700000  0.800000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "28"
+Shape Rect Layer back
+position  5.700000  0.000000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "27"
+Shape Rect Layer back
+position  5.700000 -0.800000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "26"
+Shape Rect Layer back
+position  5.700000 -1.600000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "25"
+Shape Rect Layer back
+position  5.700000 -2.400000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Rect Layer back
+position  5.700000 -3.200000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Rect Layer back
+position  5.700000 -4.000000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Rect Layer back
+position  4.000000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Rect Layer back
+position  3.200000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Rect Layer back
+position  2.400000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Rect Layer back
+position  1.600000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Rect Layer back
+position  0.800000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Rect Layer back
+position  0.000000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Rect Layer back
+position -0.800000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Rect Layer back
+position -1.600000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Rect Layer back
+position -2.400000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Rect Layer back
+position -3.200000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Rect Layer back
+position -4.000000 -5.700000  size  1.500000  0.550000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Rect Layer back
+position -5.700000 -4.000000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Rect Layer back
+position -5.700000 -3.200000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Rect Layer back
+position -5.700000 -2.400000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -5.700000 -1.600000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position -5.700000 -0.800000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position -5.700000  0.000000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -5.700000  0.800000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position -5.700000  1.600000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position -5.700000  2.400000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -5.700000  3.200000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.700000  4.000000  size  1.500000  0.550000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U1
+
+$MODULE "SW1"
+reference "SW1"
+value "SW_PUSH"
+footprint "Button_Switch_SMD:SW_SPST_TL3342"
+attribut smd
+position 225.615500 135.890000  orientation 90.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  3.150000 -1.900000  size  1.700000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -3.150000 -1.900000  size  1.700000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  3.150000  1.900000  size  1.700000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -3.150000  1.900000  size  1.700000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1
+
+$MODULE "R6"
+reference "R6"
+value "10k"
+footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 221.043500 135.881000  orientation 270.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R6
+
+$MODULE "R5"
+reference "R5"
+value "5.1k"
+footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 304.419000 36.830000  orientation 90.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R5
+
+$MODULE "R4"
+reference "R4"
+value "5.1k"
+footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 298.323000 36.839000  orientation 90.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE "R3"
+reference "R3"
+value "22 ohm"
+footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 300.355000 36.839000  orientation 90.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE "R2"
+reference "R2"
+value "22 ohm"
+footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 302.387000 36.839000  orientation 90.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE "R1"
+reference "R1"
+value "10k"
+footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 191.262000 137.668000  orientation 135.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "MX89"
+reference "MX89"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 351.442140 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX89
+
+$MODULE "MX88"
+reference "MX88"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 332.392060 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX88
+
+$MODULE "MX87"
+reference "MX87"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 313.341980 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX87
+
+$MODULE "MX86"
+reference "MX86"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 294.291900 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX86
+
+$MODULE "MX85"
+reference "MX85"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 275.241820 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX85
+
+$MODULE "MX84"
+reference "MX84"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 256.191740 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX84
+
+$MODULE "MX83"
+reference "MX83"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 237.141660 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX83
+
+$MODULE "MX81"
+reference "MX81"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1.25U-NoLED"
+attribut none
+position 96.647320 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX81
+
+$MODULE "MX79"
+reference "MX79"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1.25U-NoLED"
+attribut none
+position 49.022120 136.414410  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX79
+
+$MODULE "MX78"
+reference "MX78"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 351.442140 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX78
+
+$MODULE "MX77"
+reference "MX77"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 332.392060 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX77
+
+$MODULE "MX74"
+reference "MX74"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 260.954260 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX74
+
+$MODULE "MX73"
+reference "MX73"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 241.904180 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX73
+
+$MODULE "MX72"
+reference "MX72"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 222.854100 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX72
+
+$MODULE "MX71"
+reference "MX71"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 203.804020 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX71
+
+$MODULE "MX70"
+reference "MX70"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 184.753940 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX70
+
+$MODULE "MX69"
+reference "MX69"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 165.703860 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX69
+
+$MODULE "MX68"
+reference "MX68"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 146.653780 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX68
+
+$MODULE "MX67"
+reference "MX67"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 127.603700 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX67
+
+$MODULE "MX66"
+reference "MX66"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 108.553620 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX66
+
+$MODULE "MX65"
+reference "MX65"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 89.503540 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX65
+
+$MODULE "MX64"
+reference "MX64"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-2.25U-NoLED"
+attribut none
+position 58.547160 117.364330  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX64
+
+$MODULE "MX63"
+reference "MX63"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 351.442140 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX63
+
+$MODULE "MX62"
+reference "MX62"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 332.392060 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX62
+
+$MODULE "MX61"
+reference "MX61"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-2.25U-NoLED"
+attribut none
+position 301.435680 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX61
+
+$MODULE "MX60"
+reference "MX60"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 270.479300 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX60
+
+$MODULE "MX59"
+reference "MX59"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 251.429220 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX59
+
+$MODULE "MX58"
+reference "MX58"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 232.379140 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX58
+
+$MODULE "MX57"
+reference "MX57"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 213.329060 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX57
+
+$MODULE "MX56"
+reference "MX56"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 194.278980 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX56
+
+$MODULE "MX55"
+reference "MX55"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 175.228900 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX55
+
+$MODULE "MX54"
+reference "MX54"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 156.178820 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX54
+
+$MODULE "MX53"
+reference "MX53"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 137.128740 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX53
+
+$MODULE "MX52"
+reference "MX52"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 118.078660 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX52
+
+$MODULE "MX51"
+reference "MX51"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 99.028580 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX51
+
+$MODULE "MX50"
+reference "MX50"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 79.978500 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX50
+
+$MODULE "MX49"
+reference "MX49"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1.75U-NoLED"
+attribut none
+position 53.784640 98.314250  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX49
+
+$MODULE "MX48"
+reference "MX48"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 351.442140 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX48
+
+$MODULE "MX47"
+reference "MX47"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 332.392060 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX47
+
+$MODULE "MX46"
+reference "MX46"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1.5U-NoLED"
+attribut none
+position 308.579460 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX46
+
+$MODULE "MX45"
+reference "MX45"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 284.766860 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX45
+
+$MODULE "MX44"
+reference "MX44"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 265.716780 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX44
+
+$MODULE "MX43"
+reference "MX43"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 246.666700 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX43
+
+$MODULE "MX42"
+reference "MX42"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 227.616620 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX42
+
+$MODULE "MX41"
+reference "MX41"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 208.566540 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX41
+
+$MODULE "MX40"
+reference "MX40"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 189.516460 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX40
+
+$MODULE "MX39"
+reference "MX39"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 170.466380 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX39
+
+$MODULE "MX38"
+reference "MX38"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 151.416300 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX38
+
+$MODULE "MX37"
+reference "MX37"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 132.366220 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX37
+
+$MODULE "MX36"
+reference "MX36"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 113.316140 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX36
+
+$MODULE "MX35"
+reference "MX35"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 94.266060 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX35
+
+$MODULE "MX34"
+reference "MX34"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 75.215980 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX34
+
+$MODULE "MX33"
+reference "MX33"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1.5U-NoLED"
+attribut none
+position 51.403380 79.264170  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX33
+
+$MODULE "MX32"
+reference "MX32"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 351.442140 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX32
+
+$MODULE "MX31"
+reference "MX31"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 332.392060 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX31
+
+$MODULE "MX30"
+reference "MX30"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-2U-NoLED"
+attribut none
+position 303.816940 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX30
+
+$MODULE "MX29"
+reference "MX29"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 275.241820 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX29
+
+$MODULE "MX28"
+reference "MX28"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 256.191740 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX28
+
+$MODULE "MX27"
+reference "MX27"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 237.141660 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX27
+
+$MODULE "MX26"
+reference "MX26"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 218.091580 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX26
+
+$MODULE "MX25"
+reference "MX25"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 199.041500 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX25
+
+$MODULE "MX24"
+reference "MX24"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 179.991420 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX24
+
+$MODULE "MX23"
+reference "MX23"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 160.941340 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX23
+
+$MODULE "MX22"
+reference "MX22"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 141.891260 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX22
+
+$MODULE "MX21"
+reference "MX21"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 122.841180 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX21
+
+$MODULE "MX20"
+reference "MX20"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 103.791100 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX20
+
+$MODULE "MX19"
+reference "MX19"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 84.741020 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX19
+
+$MODULE "MX18"
+reference "MX18"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 65.690940 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX18
+
+$MODULE "MX17"
+reference "MX17"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 46.640860 60.214090  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX17
+
+$MODULE "MX16"
+reference "MX16"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 351.442140 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX16
+
+$MODULE "MX15"
+reference "MX15"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 332.392060 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX15
+
+$MODULE "MX14"
+reference "MX14"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 313.341980 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX14
+
+$MODULE "MX13"
+reference "MX13"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 289.529380 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX13
+
+$MODULE "MX12"
+reference "MX12"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 270.479300 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX12
+
+$MODULE "MX11"
+reference "MX11"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 251.429220 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX11
+
+$MODULE "MX10"
+reference "MX10"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 232.379140 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX10
+
+$MODULE "MX9"
+reference "MX9"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 208.566540 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX9
+
+$MODULE "MX8"
+reference "MX8"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 189.516460 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX8
+
+$MODULE "MX7"
+reference "MX7"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 170.466380 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX7
+
+$MODULE "MX6"
+reference "MX6"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 151.416300 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX6
+
+$MODULE "MX5"
+reference "MX5"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 127.603700 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX5
+
+$MODULE "MX4"
+reference "MX4"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 108.553620 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX4
+
+$MODULE "MX3"
+reference "MX3"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 89.503540 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX3
+
+$MODULE "MX2"
+reference "MX2"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 70.453460 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX2
+
+$MODULE "MX1"
+reference "MX1"
+value "MX-NoLED"
+footprint "MX_Only:MXOnly-1U-NoLED"
+attribut none
+position 46.640860 41.164010  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.250000  2.250000  orientation 0.00
+drill  1.470000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 48.10
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  MX1
+
+$MODULE "J1"
+reference "J1"
+value "USB4085-GF-A_REVA"
+footprint "USB4085-GF-A_REVA:GCT_USB4085-GF-A_REVA"
+attribut none
+position 301.364000 29.672000  orientation 180.00
+layer front
+$PAD "P4"
+Shape Oval Layer both
+position -4.325000  0.335000  size  1.108000  2.216000  orientation 0.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "P3"
+Shape Oval Layer both
+position  4.325000  0.335000  size  1.108000  2.216000  orientation 0.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "P2"
+Shape Oval Layer both
+position  4.325000 -3.045000  size  1.108000  2.216000  orientation 0.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "P1"
+Shape Oval Layer both
+position -4.325000 -3.045000  size  1.108000  2.216000  orientation 0.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B12"
+Shape Circle Layer both
+position -2.975000 -2.675000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B9"
+Shape Circle Layer both
+position -2.125000 -2.675000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B8"
+Shape Circle Layer both
+position -1.275000 -2.675000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B7"
+Shape Circle Layer both
+position -0.425000 -2.675000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B6"
+Shape Circle Layer both
+position  0.425000 -2.675000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B5"
+Shape Circle Layer both
+position  1.275000 -2.675000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B4"
+Shape Circle Layer both
+position  2.125000 -2.675000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B1"
+Shape Circle Layer both
+position  2.975000 -2.675000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A12"
+Shape Circle Layer both
+position  2.975000 -4.025000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A9"
+Shape Circle Layer both
+position  2.125000 -4.025000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A8"
+Shape Circle Layer both
+position  1.275000 -4.025000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A7"
+Shape Circle Layer both
+position  0.425000 -4.025000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A6"
+Shape Circle Layer both
+position -0.425000 -4.025000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A5"
+Shape Circle Layer both
+position -1.275000 -4.025000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A4"
+Shape Circle Layer both
+position -2.125000 -4.025000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A1"
+Shape Circle Layer both
+position -2.975000 -4.025000  size  0.650000  0.650000  orientation 0.00
+drill  0.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "F1"
+reference "F1"
+value "500mA"
+footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+attribut smd
+position 303.530000 42.000500  orientation 270.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.487500  0.000000  size  1.425000  1.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.487500  0.000000  size  1.425000  1.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  F1
+
+$MODULE "D89"
+reference "D89"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 356.107000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D89
+
+$MODULE "D88"
+reference "D88"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 336.931000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D88
+
+$MODULE "D87"
+reference "D87"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 317.881000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D87
+
+$MODULE "D86"
+reference "D86"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 298.831000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D86
+
+$MODULE "D85"
+reference "D85"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 279.909000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D85
+
+$MODULE "D84"
+reference "D84"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 260.731000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D84
+
+$MODULE "D83"
+reference "D83"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 241.681000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D83
+
+$MODULE "D82"
+reference "D82"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 172.593000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D82
+
+$MODULE "D81"
+reference "D81"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 101.219000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D81
+
+$MODULE "D80"
+reference "D80"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 77.343000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D80
+
+$MODULE "D79"
+reference "D79"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 53.721000 142.113000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D79
+
+$MODULE "D78"
+reference "D78"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 355.981000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D78
+
+$MODULE "D77"
+reference "D77"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 336.931000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D77
+
+$MODULE "D76"
+reference "D76"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 317.881000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D76
+
+$MODULE "D74"
+reference "D74"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 265.557000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D74
+
+$MODULE "D73"
+reference "D73"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 246.507000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D73
+
+$MODULE "D72"
+reference "D72"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 227.457000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D72
+
+$MODULE "D71"
+reference "D71"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 208.407000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D71
+
+$MODULE "D70"
+reference "D70"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 189.357000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D70
+
+$MODULE "D69"
+reference "D69"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 170.307000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D69
+
+$MODULE "D68"
+reference "D68"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 151.385000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D68
+
+$MODULE "D67"
+reference "D67"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 132.207000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D67
+
+$MODULE "D66"
+reference "D66"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 113.285000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D66
+
+$MODULE "D65"
+reference "D65"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 94.233000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D65
+
+$MODULE "D64"
+reference "D64"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 63.119000 123.063000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D64
+
+$MODULE "D63"
+reference "D63"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 355.981000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D63
+
+$MODULE "D62"
+reference "D62"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 337.057000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D62
+
+$MODULE "D61"
+reference "D61"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 305.943000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D61
+
+$MODULE "D60"
+reference "D60"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 275.081000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D60
+
+$MODULE "D59"
+reference "D59"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 256.033000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D59
+
+$MODULE "D58"
+reference "D58"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 236.983000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D58
+
+$MODULE "D57"
+reference "D57"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 217.933000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D57
+
+$MODULE "D56"
+reference "D56"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 198.881000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D56
+
+$MODULE "D55"
+reference "D55"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 179.833000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D55
+
+$MODULE "D54"
+reference "D54"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 160.783000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D54
+
+$MODULE "D53"
+reference "D53"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 141.859000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D53
+
+$MODULE "D52"
+reference "D52"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 122.683000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D52
+
+$MODULE "D51"
+reference "D51"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 103.633000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D51
+
+$MODULE "D50"
+reference "D50"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 84.583000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D50
+
+$MODULE "D49"
+reference "D49"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 58.421000 104.013000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D49
+
+$MODULE "D48"
+reference "D48"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 355.981000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D48
+
+$MODULE "D47"
+reference "D47"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 337.059000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D47
+
+$MODULE "D46"
+reference "D46"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 313.181000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D46
+
+$MODULE "D45"
+reference "D45"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 289.433000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D45
+
+$MODULE "D44"
+reference "D44"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 270.257000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D44
+
+$MODULE "D43"
+reference "D43"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 251.207000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D43
+
+$MODULE "D42"
+reference "D42"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 232.157000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D42
+
+$MODULE "D41"
+reference "D41"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 213.233000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D41
+
+$MODULE "D40"
+reference "D40"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 194.183000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D40
+
+$MODULE "D39"
+reference "D39"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 175.007000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D39
+
+$MODULE "D38"
+reference "D38"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 155.957000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D38
+
+$MODULE "D37"
+reference "D37"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 137.033000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D37
+
+$MODULE "D36"
+reference "D36"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 117.857000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D36
+
+$MODULE "D35"
+reference "D35"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 98.807000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D35
+
+$MODULE "D34"
+reference "D34"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 79.757000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D34
+
+$MODULE "D33"
+reference "D33"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 56.007000 84.963000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D33
+
+$MODULE "D32"
+reference "D32"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 356.109000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D32
+
+$MODULE "D31"
+reference "D31"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 336.931000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D31
+
+$MODULE "D30"
+reference "D30"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 308.483000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D30
+
+$MODULE "D29"
+reference "D29"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 279.781000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D29
+
+$MODULE "D28"
+reference "D28"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 260.857000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D28
+
+$MODULE "D27"
+reference "D27"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 241.809000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D27
+
+$MODULE "D26"
+reference "D26"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 222.757000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D26
+
+$MODULE "D25"
+reference "D25"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 203.709000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D25
+
+$MODULE "D24"
+reference "D24"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 184.531000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D24
+
+$MODULE "D23"
+reference "D23"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 165.609000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D23
+
+$MODULE "D22"
+reference "D22"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 146.431000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D22
+
+$MODULE "D21"
+reference "D21"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 127.509000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D21
+
+$MODULE "D20"
+reference "D20"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 108.459000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D20
+
+$MODULE "D19"
+reference "D19"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 89.409000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D19
+
+$MODULE "D18"
+reference "D18"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 70.359000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D18
+
+$MODULE "D17"
+reference "D17"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 51.309000 65.913000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D17
+
+$MODULE "D16"
+reference "D16"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 356.109000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D16
+
+$MODULE "D15"
+reference "D15"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 337.059000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D15
+
+$MODULE "D14"
+reference "D14"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 317.881000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D14
+
+$MODULE "D13"
+reference "D13"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 294.133000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D13
+
+$MODULE "D12"
+reference "D12"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 275.083000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D12
+
+$MODULE "D11"
+reference "D11"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 256.033000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D11
+
+$MODULE "D10"
+reference "D10"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 236.983000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D10
+
+$MODULE "D9"
+reference "D9"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 213.233000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D9
+
+$MODULE "D8"
+reference "D8"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 194.057000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D8
+
+$MODULE "D7"
+reference "D7"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 175.007000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D7
+
+$MODULE "D6"
+reference "D6"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 155.957000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D6
+
+$MODULE "D5"
+reference "D5"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 132.207000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D5
+
+$MODULE "D4"
+reference "D4"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 113.157000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D4
+
+$MODULE "D3"
+reference "D3"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 94.107000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D3
+
+$MODULE "D2"
+reference "D2"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 75.057000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D2
+
+$MODULE "D1"
+reference "D1"
+value "22p"
+footprint "Diode_SMD:D_SOD-123"
+attribut smd
+position 51.181000 46.863000  orientation 180.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE "C8"
+reference "C8"
+value "22p"
+footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 208.534000 142.231000  orientation 270.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C8
+
+$MODULE "C7"
+reference "C7"
+value "22p"
+footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 213.369000 137.160000  orientation 180.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C7
+
+$MODULE "C6"
+reference "C6"
+value "4.7u"
+footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 202.908784 127.216784  orientation 135.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C6
+
+$MODULE "C5"
+reference "C5"
+value "0.1u"
+footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 210.222216 135.292216  orientation 45.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C5
+
+$MODULE "C4"
+reference "C4"
+value "0.1u"
+footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 197.903216 127.724784  orientation 225.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C4
+
+$MODULE "C3"
+reference "C3"
+value "0.1u"
+footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 191.680216 133.947784  orientation 225.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C3
+
+$MODULE "C2"
+reference "C2"
+value "0.1u"
+footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 196.596000 144.272000  orientation 180.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C2
+
+$MODULE "C1"
+reference "C1"
+value "1u"
+footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+attribut smd
+position 206.412216 129.502784  orientation 45.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -1.025000  0.000000  size  1.150000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C1
+
+$EndDESCRIPTION
